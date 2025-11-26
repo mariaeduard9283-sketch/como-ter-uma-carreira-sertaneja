@@ -1,7 +1,7 @@
 body {
   border-radius: 100%;
-  background-color: rgb(249, 179, 0);
-  color: rgb(0, 0, 0);
+  background-color: #ffd500 0%;
+  color:  #0b0b0b 0%;
   text-align: center;
   
 
@@ -40,22 +40,22 @@ button {
   border: 0;
   cursor: pointer;
   will-change: box-shadow,transform;
-   background: radial-gradient(100% 100% at 100% 0%, #89E5FF 0%, #5468FF 100% );
-  box-shadow: 0px 0.01em 0.01em rgb(115, 157, 255), 0px 0.3em 0.7em -0.01em rgb(75, 141, 255), inset 0px -0.01em 0px rgb(58 65 111 / 50%);
+   background: radial-gradient(100% 100% at 100% 0%, #ffd500 0%, #fca161 100% );
+  box-shadow: 0px 0.01em 0.01em rgb(255, 251, 0), 0px 0.3em 0.7em -0.01em rgb(255, 238, 160), inset 0px -0.01em 0px rgb(247, 169, 91);
   padding: 0 2em;
   border-radius: 0.3em;
-  color: #3f6fff;
+  color: #f0be5f;
   height: 2.6em;
-  text-shadow: 0 1px 0 rgba(57, 199, 255, 0.99);
+  text-shadow: 0 1px 0 rgba(255, 196, 19, 0.99);
   transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
 button:hover {
-  box-shadow: 0px 0.1em 0.2em rgb(151, 207, 255), 0px 0.4em 0.7em -0.1em rgb(45 35 66 / 30%), inset 0px -0.1em 0px #faffaf;
+  box-shadow: 0px 0.1em 0.2em rgb(253, 199, 98), 0px 0.4em 0.7em -0.1em rgb(45 35 66 / 30%), inset 0px -0.1em 0px #faffaf;
   transform: translateY(-0.1em);
 }
 
 button:active {
-  box-shadow: inset 0px 0.1em 0.6em #62abff;
+  box-shadow: inset 0px 0.1em 0.6em #fbff00;
   transform: translateY(0em);
 }
