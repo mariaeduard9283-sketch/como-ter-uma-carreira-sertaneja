@@ -1,20 +1,20 @@
 body{
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 123, 0);
+    color: rgb(255, 170, 0);
 }
 h1 {
     font-size: 50px;
-    color: rgb(219, 235, 255);
+    color: rgb(255, 170, 0);
     background-color: rgb(5, 5, 5);
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 div{
     text-align: center;
-    color: #a0cafd;
+    color: rgb(255, 170, 0);
 }
 nav{
-    color:rgb(98, 158, 255);   
+    color:rgb(255, 153, 0);   
 }
 *{
   margin: 0;

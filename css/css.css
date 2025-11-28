@@ -6,6 +6,7 @@ text-align: center;
 }
 h1{
     font-size: 50px;
-    background-color: rgb(255, 166, 0);
-    color: rgb(255, 149, 0);
+    background-color: #ff7700;
+    color: rgb(255, 170, 0);
+    font-family: 'Times New Roman', Times, serif;
 }
