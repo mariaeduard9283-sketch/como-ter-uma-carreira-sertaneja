@@ -1,13 +1,13 @@
 body
 {
- background-color: yellow;
+ background-color: rgb(8, 8, 8);
  border-radius: 28%;
- color: black
- (149, 186, 255);;
+ color: rgb(255, 170, 0);
+ 
 }
 h1{
   font-size: 50px;
-  backgrond-color:#84bbff;
+  background-color:#ff7700;
   color: #a0cafd;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }

@@ -1,0 +1,11 @@
+body {
+background-color: rgb(21, 21, 21);
+border-radius: 28%;
+color: rgb(255, 166, 0);
+text-align: center;
+}
+h1{
+    font-size: 50px;
+    background-color: rgb(255, 166, 0);
+    color: rgb(255, 149, 0);
+}
