@@ -4,17 +4,17 @@ body{
 }
 h1 {
     font-size: 50px;
-    color: rgb(255, 170, 0);
+    color: rgb(255, 176, 19);
     background-color: rgb(5, 5, 5);
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 div{
     text-align: center;
-    color: rgb(255, 170, 0);
+    color: rgb(247, 170, 56);
 }
 nav{
-    color:rgb(255, 153, 0);   
+    color:rgb(248, 157, 20);   
 }
 *{
   margin: 0;
@@ -45,7 +45,7 @@ h1{
     background-color: #ff7700;
     text-align: center;
     font-size: 50px;
-    color:#ff7700;
+    color:#fa7d10;
     font: size 70px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
