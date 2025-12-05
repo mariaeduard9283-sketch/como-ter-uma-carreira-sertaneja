@@ -5,6 +5,7 @@ body {
     text-align: center;
     background: url("../fundo.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
