@@ -3,6 +3,7 @@ body {
   border-radius: 28%;
   color: rgb(255, 170, 0);
   background: url("../fundo.jpg");
+  background-repeat: no-repeat;
 }
 
 h1 {
